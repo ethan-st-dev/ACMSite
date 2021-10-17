@@ -22,6 +22,17 @@
   grid-template-columns: repeat(8, 1fr);
   width: 100%;
 }
+#elemcard {
+  border: 1;
+  border-collapse: collapse;
+  background-color: #1E4D2B;
+  border-width: 3pt;
+}
+
+#elemcard td{
+  border: 0;
+  border-collapse: collapse;
+}
 
 caption {
   text-align: center;
