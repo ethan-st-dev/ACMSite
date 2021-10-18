@@ -5,12 +5,32 @@
 layout: home
 title: Home
 ---
+<table id="elemcard" width="94%">
+    <tr>
+            <td class>
+                <a style="color: #FFFFFF; font-size: 20px; font-family: factoria-book" href="https://www.wowhead.com">
+                Living on a big Salary - An interview with Craig Partrige
+                </a>
+            </td>
+    </tr>
+    <tr>
+                <td width="50%">
+                    <a href="https://www.wowhead.com">
+                        <img src="https://images.pexels.com/photos/2068975/pexels-photo-2068975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="100%">
+                    </a>
+                </td>
+                <td style="font-size:25px; line-height:200%;">
+                    We sit down with CSU professor Craig Patrige, as he gives us tips for living on a big budget as a grduate of Computer Science.
+                </td>
+    </tr>
+</table>
 
+<h1></h1>
 
 <table id="elemcard" width="94%">
     <tr>
             <td class>
-                <a style="color: #FFFFFF; font-size: 20px;" href="https://www.wowhead.com">
+                <a style="color: #FFFFFF; font-size: 20px; font-family: factoria-book" href="https://www.wowhead.com">
                 Trivia Night - October 20
                 </a>
             </td>
@@ -32,7 +52,7 @@ title: Home
 <table id="elemcard" width="94%">
     <tr>
             <td>
-                <a style="color: #FFFFFF; font-size: 20px;" href="https://www.wowhead.com">
+                <a style="color: #FFFFFF; font-size: 20px; font-family: factoria-book" href="https://www.wowhead.com">
                 Halloween Movie Night - October 13
                 </a>
             </td>
