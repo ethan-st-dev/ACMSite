@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+page-pic: "https://csulb.acm.org/media/gbm.jpg"
 ---
 <table id="elemcard" width="94%">
     <tr>
