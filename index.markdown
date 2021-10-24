@@ -6,10 +6,11 @@ layout: home
 title: Home
 page-pic: "https://csulb.acm.org/media/gbm.jpg"
 ---
+
 <table id="elemcard" width="94%">
     <tr>
             <td class>
-                <a style="color: #FFFFFF; font-size: 20px; font-family: factoria-book" href="https://www.wowhead.com">
+                <a style="color: #FFFFFF; font-size: 20px; font-family: factoria-book;" href="https://www.wowhead.com">
                 Living on a big Salary - An interview with Craig Partrige
                 </a>
             </td>
@@ -17,7 +18,7 @@ page-pic: "https://csulb.acm.org/media/gbm.jpg"
     <tr>
                 <td width="50%">
                     <a href="https://www.wowhead.com">
-                        <img src="https://images.pexels.com/photos/2068975/pexels-photo-2068975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" width="100%">
+                        <img src="https://www.limestone.edu/sites/default/files/styles/d05/public/images/2020-06/computer-programming.jpg?itok=zCces09p" width="100%">
                     </a>
                 </td>
                 <td style="font-size:25px; line-height:200%;">
@@ -39,7 +40,7 @@ page-pic: "https://csulb.acm.org/media/gbm.jpg"
     <tr>
                 <td width="50%">
                     <a href="https://www.wowhead.com">
-                        <img src="https://lh3.googleusercontent.com/proxy/xDUdpF-cihcOn1zHIEopIap62LsurA0RG5le702jvQBxd-CePGyg-V9Cz7tRXz3a1SEjE7D2KYexKWm5YSa9dBTXJCqGeyqMZL1gOyPRQMLZlIGqZCxtrzJ3EBHT5seWpLcrjloiYhTe3KOC3vcKCEV6hQU" width="100%">
+                        <img src="https://toledocitypaper.com/wp-content/uploads/2016/09/Trivia.jpg" width="100%">
                     </a>
                 </td>
                 <td style="font-size:25px; line-height:200%;">
